@@ -69,8 +69,7 @@ The dataset used comprises detailed cricket statistics, including:
 1. Download and install **Tableau Public**: [Get Tableau Public](https://public.tableau.com/)  
 2. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/cricket-data-visualization.git
-   cd cricket-data-visualization
+   git clone https://github.com/SEEMANTULANISCHAL/Data_Visualization_Tableau.git
    ```
 3. Open the `.twbx` file using Tableau Public.  
 
