@@ -86,16 +86,16 @@ The dataset used comprises detailed cricket statistics, including:
 ## 📸 **Screenshots**  
 
 ### 🏏 Top 10 Six Hitters Dashboard  
-![Top 10 Six Hitters](link-to-screenshot1)  
+![Top 10 Six Hitters](https://public.tableau.com/app/profile/nischal.seemantula/viz/Cricket_Analytics_twbx/Dashboard1?publish=yes)  
 
 ### 🥇 Top 10 Century Makers Dashboard  
-![Top 10 Centuries](link-to-screenshot2)  
+![Top 10 Centuries](https://public.tableau.com/app/profile/nischal.seemantula/viz/Cricket_Analytics_twbx/Dashboard2?publish=yes)  
 
 ### 📊 Team Player Performance  
-![Team Performance](link-to-screenshot3)  
+![Team Performance](https://public.tableau.com/app/profile/nischal.seemantula/viz/Cricket_Analytics_twbx/Dashboard3?publish=yes)  
 
 ### 🆚 Player Comparison Dashboard  
-![Player Comparison](link-to-screenshot4)  
+![Player Comparison](https://public.tableau.com/app/profile/nischal.seemantula/viz/Cricket_Analytics_twbx/Dashboard4?publish=yes)  
 
 ---
 
