@@ -1,9 +1,3 @@
-MEDIUM LINK: https://medium.com/@nischal200216/data-visualization-using-tableau-a-deep-dive-into-cricket-analytics-568fb302dedd
-
-
-Here’s a **comprehensive README template** tailored for your **Cricket Data Visualization Project using Tableau**. It’s structured to be beginner-friendly, professional, and suitable for GitHub.
-
----
 
 # 🏏 **Cricket Data Visualization using Tableau**  
 Explore, analyze, and visualize comprehensive cricket statistics through interactive dashboards.
@@ -106,7 +100,7 @@ The dataset used comprises detailed cricket statistics, including:
 ---
 
 ## 📝 **Medium Article**  
-Read the detailed write-up on Medium: [Data Visualization Using Tableau: A Deep Dive into Cricket Analytics](link-to-your-medium-article)  
+Read the detailed write-up on Medium: [Data Visualization Using Tableau: A Deep Dive into Cricket Analytics]( https://medium.com/@nischal200216/data-visualization-using-tableau-a-deep-dive-into-cricket-analytics-568fb302dedd)  
 
 ---
 
